@@ -37,5 +37,9 @@ Data.prototype.renderImg = function () {
 }
 console.log(picArr);
 // code for chose element 
+function chose() {
+    let choseitem=$()
 
 
+}
+chose();
