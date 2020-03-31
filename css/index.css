@@ -7,12 +7,7 @@ select#cataloge {
     margin: 3% 0px 0px 45%;
 }
 
-/* .photo-template{
-    background-color: gray;
-    width: 100px;
-    height: 100px; 
-    float: left;
-}  */
+
 section{
     background-color: gray;
     width: 330px;
@@ -36,6 +31,4 @@ img {
 footer{
     clear: both;
 }
-/* .show{
-    visibility: hidden;
-} */
+
