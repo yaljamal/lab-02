@@ -59,5 +59,23 @@ Start time: 4:30
 Finish time: 5:00
 
 Actual time needed to complete: don't make it 
+-----------------------------------------------------------------------
+Number and name of feature: Feature 4 Sort the images
+Estimate of time needed to complete: 1 hour 
+
+Start time: 5:00
+
+Finish time: 6:00
+
+Actual time needed to complete: still
+-----------------------------------------------------------------------
+Number and name of feature: Feature 4 Sort the images
+Estimate of time needed to complete: 1 hour 
+
+Start time: 5:00
+
+Finish time: 6:00
+
+Actual time needed to complete: still
 
  

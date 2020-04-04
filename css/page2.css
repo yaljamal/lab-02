@@ -1,0 +1,30 @@
+@media (min-width:960px){
+
+}
+/* body{
+    width: 100%;
+
+} */
+
+#showMustach{ 
+    /* padding: 0;
+    margin: 0; */
+    outline: 1px solid red;
+    margin: 2em auto;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+}
+.all{
+    background: tomato;
+  color: white;
+  font-weight: bold;
+  /* font-size: 3em; */
+  text-align: center;
+  margin: 3em;
+  flex: 1 1 auto;
+  outline: 1px solid blue;
+
+}
+
+
