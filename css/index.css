@@ -18,13 +18,12 @@ section{
     width: 330px;
     margin: 10px;
     height: 400px;
-    float: left;
+    /* float: left; */
 }
 p {
-    text-align: center;
+    /* text-align: center; */
 }
 h2 {
-    text-align: center;
     padding-top: 10px;
 
 }
